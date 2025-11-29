@@ -18,6 +18,9 @@ Project Overview
 
 IF → ID → EX → MEM → WB
 
+<img width="508" height="372" alt="image" src="https://github.com/user-attachments/assets/12886859-be9d-4a21-8f91-13ea037829dd" />
+
+
 •	Built full datapath including program counter, instruction fetch, register file, ALU, control logic, immediate generator, pipeline registers, and write-back logic
 
 •	Added Forwarding Unit and Hazard Detection Unit to resolve data dependencies and prevent unnecessary stalls
